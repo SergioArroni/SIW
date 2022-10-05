@@ -1,0 +1,2250 @@
+
+-------------------------------------------------------------- Para la query q: I 001 -------------------------------------------------------
+El mejor texto es el I172  con un resultado de: 3.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 001 -------------------------------------------------------
+El mejor texto es el I172  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 002 -------------------------------------------------------
+El mejor texto es el I172  con un resultado de: 5.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 002 -------------------------------------------------------
+El mejor texto es el I172  con un resultado de: 2.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 004 -------------------------------------------------------
+El mejor texto es el I5  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 004 -------------------------------------------------------
+El mejor texto es el I5  con un resultado de: 1.3928571428571428
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 008 -------------------------------------------------------
+El mejor texto es el I1061  con un resultado de: 6.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 008 -------------------------------------------------------
+El mejor texto es el I1061  con un resultado de: 3.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 009 -------------------------------------------------------
+El mejor texto es el I1032  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 009 -------------------------------------------------------
+El mejor texto es el I1032  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 010 -------------------------------------------------------
+El mejor texto es el I959  con un resultado de: 3.3333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 010 -------------------------------------------------------
+El mejor texto es el I959  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 012 -------------------------------------------------------
+El mejor texto es el I492  con un resultado de: 5.283333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 012 -------------------------------------------------------
+El mejor texto es el I492  con un resultado de: 3.3857142857142857
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 013 -------------------------------------------------------
+El mejor texto es el I433  con un resultado de: 5.625
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 013 -------------------------------------------------------
+El mejor texto es el I433  con un resultado de: 2.9444444444444446
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 015 -------------------------------------------------------
+El mejor texto es el I1002  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 015 -------------------------------------------------------
+El mejor texto es el I1002  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 018 -------------------------------------------------------
+El mejor texto es el I1264  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 018 -------------------------------------------------------
+El mejor texto es el I1264  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 022 -------------------------------------------------------
+El mejor texto es el I495  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 022 -------------------------------------------------------
+El mejor texto es el I495  con un resultado de: 2.7333333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 023 -------------------------------------------------------
+El mejor texto es el I547  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 023 -------------------------------------------------------
+El mejor texto es el I624  con un resultado de: 1.8666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 026 -------------------------------------------------------
+El mejor texto es el I520  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 026 -------------------------------------------------------
+El mejor texto es el I520  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 027 -------------------------------------------------------
+El mejor texto es el I309  con un resultado de: 2.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 027 -------------------------------------------------------
+El mejor texto es el I309  con un resultado de: 1.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 029 -------------------------------------------------------
+El mejor texto es el I463  con un resultado de: 2.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 029 -------------------------------------------------------
+El mejor texto es el I463  con un resultado de: 1.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 031 -------------------------------------------------------
+El mejor texto es el I869  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 031 -------------------------------------------------------
+El mejor texto es el I869  con un resultado de: 2.3333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 032 -------------------------------------------------------
+El mejor texto es el I1179  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 032 -------------------------------------------------------
+El mejor texto es el I700  con un resultado de: 2.0833333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 033 -------------------------------------------------------
+El mejor texto es el I1304  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 033 -------------------------------------------------------
+El mejor texto es el I498  con un resultado de: 2.642857142857143
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 034 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 034 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 035 -------------------------------------------------------
+El mejor texto es el I456  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 035 -------------------------------------------------------
+El mejor texto es el I456  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 039 -------------------------------------------------------
+El mejor texto es el I502  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 039 -------------------------------------------------------
+El mejor texto es el I502  con un resultado de: 1.9
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 040 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 040 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 041 -------------------------------------------------------
+El mejor texto es el I370  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 041 -------------------------------------------------------
+El mejor texto es el I370  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 049 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 049 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 050 -------------------------------------------------------
+El mejor texto es el I121  con un resultado de: 4.666666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 050 -------------------------------------------------------
+El mejor texto es el I121  con un resultado de: 2.4761904761904763
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 051 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 7.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 051 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 4.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 052 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 3.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 052 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 2.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 053 -------------------------------------------------------
+El mejor texto es el I503  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 053 -------------------------------------------------------
+El mejor texto es el I503  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 054 -------------------------------------------------------
+El mejor texto es el I513  con un resultado de: 5.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 054 -------------------------------------------------------
+El mejor texto es el I513  con un resultado de: 2.7
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 055 -------------------------------------------------------
+El mejor texto es el I289  con un resultado de: 2.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 055 -------------------------------------------------------
+El mejor texto es el I289  con un resultado de: 1.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 056 -------------------------------------------------------
+El mejor texto es el I1082  con un resultado de: 5.333333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 056 -------------------------------------------------------
+El mejor texto es el I1082  con un resultado de: 2.7857142857142856
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 057 -------------------------------------------------------
+El mejor texto es el I404  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 057 -------------------------------------------------------
+El mejor texto es el I752  con un resultado de: 1.7095238095238092
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 058 -------------------------------------------------------
+El mejor texto es el I792  con un resultado de: 4.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 058 -------------------------------------------------------
+El mejor texto es el I808  con un resultado de: 2.785714285714286
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 059 -------------------------------------------------------
+El mejor texto es el I1229  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 059 -------------------------------------------------------
+El mejor texto es el I1350  con un resultado de: 2.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 061 -------------------------------------------------------
+El mejor texto es el I132  con un resultado de: 2.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 061 -------------------------------------------------------
+El mejor texto es el I132  con un resultado de: 1.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 062 -------------------------------------------------------
+El mejor texto es el I1222  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 062 -------------------------------------------------------
+El mejor texto es el I1222  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 066 -------------------------------------------------------
+El mejor texto es el I97  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 066 -------------------------------------------------------
+El mejor texto es el I97  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 067 -------------------------------------------------------
+El mejor texto es el I36  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 067 -------------------------------------------------------
+El mejor texto es el I36  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 068 -------------------------------------------------------
+El mejor texto es el I142  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 068 -------------------------------------------------------
+El mejor texto es el I142  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 069 -------------------------------------------------------
+El mejor texto es el I89  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 069 -------------------------------------------------------
+El mejor texto es el I89  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 071 -------------------------------------------------------
+El mejor texto es el I520  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 071 -------------------------------------------------------
+El mejor texto es el I520  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 072 -------------------------------------------------------
+El mejor texto es el I1320  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 072 -------------------------------------------------------
+El mejor texto es el I1320  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 074 -------------------------------------------------------
+El mejor texto es el I292  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 074 -------------------------------------------------------
+El mejor texto es el I572  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 079 -------------------------------------------------------
+El mejor texto es el I108  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 079 -------------------------------------------------------
+El mejor texto es el I103  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 080 -------------------------------------------------------
+El mejor texto es el I540  con un resultado de: 4.45
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 080 -------------------------------------------------------
+El mejor texto es el I540  con un resultado de: 2.3666666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 081 -------------------------------------------------------
+El mejor texto es el I553  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 081 -------------------------------------------------------
+El mejor texto es el I983  con un resultado de: 2.533333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 082 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 082 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 083 -------------------------------------------------------
+El mejor texto es el I757  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 083 -------------------------------------------------------
+El mejor texto es el I757  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 084 -------------------------------------------------------
+El mejor texto es el I349  con un resultado de: 5.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 084 -------------------------------------------------------
+El mejor texto es el I349  con un resultado de: 2.95
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 085 -------------------------------------------------------
+El mejor texto es el I142  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 085 -------------------------------------------------------
+El mejor texto es el I435  con un resultado de: 2.5833333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 086 -------------------------------------------------------
+El mejor texto es el I1040  con un resultado de: 5.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 086 -------------------------------------------------------
+El mejor texto es el I1040  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 087 -------------------------------------------------------
+El mejor texto es el I269  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 087 -------------------------------------------------------
+El mejor texto es el I792  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 093 -------------------------------------------------------
+El mejor texto es el I1221  con un resultado de: 4.083333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 093 -------------------------------------------------------
+El mejor texto es el I1221  con un resultado de: 2.283333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 094 -------------------------------------------------------
+El mejor texto es el I310  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 094 -------------------------------------------------------
+El mejor texto es el I310  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 095 -------------------------------------------------------
+El mejor texto es el I1185  con un resultado de: 4.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 095 -------------------------------------------------------
+El mejor texto es el I1185  con un resultado de: 2.6666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 097 -------------------------------------------------------
+El mejor texto es el I753  con un resultado de: 3.674242424242424
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 097 -------------------------------------------------------
+El mejor texto es el I753  con un resultado de: 2.1999999999999997
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 098 -------------------------------------------------------
+El mejor texto es el I856  con un resultado de: 3.090909090909091
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 098 -------------------------------------------------------
+El mejor texto es el I856  con un resultado de: 1.5833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 099 -------------------------------------------------------
+El mejor texto es el I1222  con un resultado de: 4.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 099 -------------------------------------------------------
+El mejor texto es el I1375  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 100 -------------------------------------------------------
+El mejor texto es el I292  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 100 -------------------------------------------------------
+El mejor texto es el I292  con un resultado de: 2.2333333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 101 -------------------------------------------------------
+El mejor texto es el I1235  con un resultado de: 5.333333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 101 -------------------------------------------------------
+El mejor texto es el I322  con un resultado de: 3.166666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 102 -------------------------------------------------------
+El mejor texto es el I1002  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 102 -------------------------------------------------------
+El mejor texto es el I1002  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 103 -------------------------------------------------------
+El mejor texto es el I1061  con un resultado de: 6.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 103 -------------------------------------------------------
+El mejor texto es el I1061  con un resultado de: 3.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 104 -------------------------------------------------------
+El mejor texto es el I704  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 104 -------------------------------------------------------
+El mejor texto es el I704  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 105 -------------------------------------------------------
+El mejor texto es el I894  con un resultado de: 3.3333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 105 -------------------------------------------------------
+El mejor texto es el I894  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 106 -------------------------------------------------------
+El mejor texto es el I1106  con un resultado de: 6.166666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 106 -------------------------------------------------------
+El mejor texto es el I1106  con un resultado de: 3.3095238095238098
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 107 -------------------------------------------------------
+El mejor texto es el I629  con un resultado de: 5.2
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 107 -------------------------------------------------------
+El mejor texto es el I128  con un resultado de: 3.15
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 108 -------------------------------------------------------
+El mejor texto es el I1157  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 108 -------------------------------------------------------
+El mejor texto es el I1157  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 109 -------------------------------------------------------
+El mejor texto es el I1248  con un resultado de: 3.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 109 -------------------------------------------------------
+El mejor texto es el I628  con un resultado de: 1.7166666666666666
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 110 -------------------------------------------------------
+El mejor texto es el I128  con un resultado de: 5.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 110 -------------------------------------------------------
+El mejor texto es el I128  con un resultado de: 2.916666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 111 -------------------------------------------------------
+El mejor texto es el I944  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 111 -------------------------------------------------------
+El mejor texto es el I1236  con un resultado de: 2.1666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 112 -------------------------------------------------------
+El mejor texto es el I572  con un resultado de: 3.416666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 112 -------------------------------------------------------
+El mejor texto es el I304  con un resultado de: 1.9166666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 113 -------------------------------------------------------
+El mejor texto es el I1313  con un resultado de: 5.66025641025641
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 113 -------------------------------------------------------
+El mejor texto es el I1313  con un resultado de: 2.9816849816849818
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 114 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 7.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 114 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 3.8333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 116 -------------------------------------------------------
+El mejor texto es el I364  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 116 -------------------------------------------------------
+El mejor texto es el I364  con un resultado de: 3.1666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 118 -------------------------------------------------------
+El mejor texto es el I44  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 118 -------------------------------------------------------
+El mejor texto es el I44  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 119 -------------------------------------------------------
+El mejor texto es el I25  con un resultado de: 6.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 119 -------------------------------------------------------
+El mejor texto es el I25  con un resultado de: 3.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 120 -------------------------------------------------------
+El mejor texto es el I25  con un resultado de: 7.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 120 -------------------------------------------------------
+El mejor texto es el I25  con un resultado de: 3.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 121 -------------------------------------------------------
+El mejor texto es el I543  con un resultado de: 2.1666666666666665
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 121 -------------------------------------------------------
+El mejor texto es el I543  con un resultado de: 1.1428571428571428
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 122 -------------------------------------------------------
+El mejor texto es el I635  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 122 -------------------------------------------------------
+El mejor texto es el I917  con un resultado de: 2.6666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 123 -------------------------------------------------------
+El mejor texto es el I544  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 123 -------------------------------------------------------
+El mejor texto es el I544  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 126 -------------------------------------------------------
+El mejor texto es el I1336  con un resultado de: 2.3333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 126 -------------------------------------------------------
+El mejor texto es el I1336  con un resultado de: 1.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 128 -------------------------------------------------------
+El mejor texto es el I503  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 128 -------------------------------------------------------
+El mejor texto es el I206  con un resultado de: 2.575
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 130 -------------------------------------------------------
+El mejor texto es el I388  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 130 -------------------------------------------------------
+El mejor texto es el I388  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 131 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 6.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 131 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 3.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 132 -------------------------------------------------------
+El mejor texto es el I184  con un resultado de: 6.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 132 -------------------------------------------------------
+El mejor texto es el I184  con un resultado de: 3.3333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 133 -------------------------------------------------------
+El mejor texto es el I755  con un resultado de: 4.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 133 -------------------------------------------------------
+El mejor texto es el I755  con un resultado de: 2.833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 135 -------------------------------------------------------
+El mejor texto es el I1157  con un resultado de: 6.111111111111111
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 135 -------------------------------------------------------
+El mejor texto es el I547  con un resultado de: 3.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 136 -------------------------------------------------------
+El mejor texto es el I617  con un resultado de: 5.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 136 -------------------------------------------------------
+El mejor texto es el I617  con un resultado de: 2.833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 137 -------------------------------------------------------
+El mejor texto es el I917  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 137 -------------------------------------------------------
+El mejor texto es el I917  con un resultado de: 2.3666666666666663
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 138 -------------------------------------------------------
+El mejor texto es el I892  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 138 -------------------------------------------------------
+El mejor texto es el I892  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 139 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 139 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 140 -------------------------------------------------------
+El mejor texto es el I696  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 140 -------------------------------------------------------
+El mejor texto es el I696  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 141 -------------------------------------------------------
+El mejor texto es el I484  con un resultado de: 5.333333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 141 -------------------------------------------------------
+El mejor texto es el I635  con un resultado de: 2.95
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 142 -------------------------------------------------------
+El mejor texto es el I329  con un resultado de: 5.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 142 -------------------------------------------------------
+El mejor texto es el I329  con un resultado de: 3.15
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 143 -------------------------------------------------------
+El mejor texto es el I635  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 143 -------------------------------------------------------
+El mejor texto es el I635  con un resultado de: 2.1666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 145 -------------------------------------------------------
+El mejor texto es el I465  con un resultado de: 4.083333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 145 -------------------------------------------------------
+El mejor texto es el I465  con un resultado de: 2.283333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 146 -------------------------------------------------------
+El mejor texto es el I1331  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 146 -------------------------------------------------------
+El mejor texto es el I1331  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 147 -------------------------------------------------------
+El mejor texto es el I638  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 147 -------------------------------------------------------
+El mejor texto es el I638  con un resultado de: 2.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 148 -------------------------------------------------------
+El mejor texto es el I163  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 148 -------------------------------------------------------
+El mejor texto es el I163  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 149 -------------------------------------------------------
+El mejor texto es el I839  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 149 -------------------------------------------------------
+El mejor texto es el I1051  con un resultado de: 2.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 150 -------------------------------------------------------
+El mejor texto es el I819  con un resultado de: 4.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 150 -------------------------------------------------------
+El mejor texto es el I819  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 152 -------------------------------------------------------
+El mejor texto es el I827  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 152 -------------------------------------------------------
+El mejor texto es el I827  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 153 -------------------------------------------------------
+El mejor texto es el I122  con un resultado de: 2.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 153 -------------------------------------------------------
+El mejor texto es el I122  con un resultado de: 1.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 154 -------------------------------------------------------
+El mejor texto es el I484  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 154 -------------------------------------------------------
+El mejor texto es el I837  con un resultado de: 2.0833333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 155 -------------------------------------------------------
+El mejor texto es el I764  con un resultado de: 3.458333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 155 -------------------------------------------------------
+El mejor texto es el I764  con un resultado de: 2.087301587301587
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 156 -------------------------------------------------------
+El mejor texto es el I552  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 156 -------------------------------------------------------
+El mejor texto es el I552  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 157 -------------------------------------------------------
+El mejor texto es el I729  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 157 -------------------------------------------------------
+El mejor texto es el I29  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 158 -------------------------------------------------------
+El mejor texto es el I75  con un resultado de: 3.083333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 158 -------------------------------------------------------
+El mejor texto es el I75  con un resultado de: 1.7833333333333332
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 160 -------------------------------------------------------
+El mejor texto es el I707  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 160 -------------------------------------------------------
+El mejor texto es el I707  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 161 -------------------------------------------------------
+El mejor texto es el I116  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 161 -------------------------------------------------------
+El mejor texto es el I1117  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 163 -------------------------------------------------------
+El mejor texto es el I433  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 163 -------------------------------------------------------
+El mejor texto es el I433  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 164 -------------------------------------------------------
+El mejor texto es el I641  con un resultado de: 8.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 164 -------------------------------------------------------
+El mejor texto es el I641  con un resultado de: 4.633333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 165 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 165 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 167 -------------------------------------------------------
+El mejor texto es el I229  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 167 -------------------------------------------------------
+El mejor texto es el I1207  con un resultado de: 3.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 168 -------------------------------------------------------
+El mejor texto es el I51  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 168 -------------------------------------------------------
+El mejor texto es el I51  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 169 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 169 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 170 -------------------------------------------------------
+El mejor texto es el I1304  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 170 -------------------------------------------------------
+El mejor texto es el I1304  con un resultado de: 1.9999999999999998
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 171 -------------------------------------------------------
+El mejor texto es el I1062  con un resultado de: 3.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 171 -------------------------------------------------------
+El mejor texto es el I1259  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 173 -------------------------------------------------------
+El mejor texto es el I897  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 173 -------------------------------------------------------
+El mejor texto es el I897  con un resultado de: 2.333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 175 -------------------------------------------------------
+El mejor texto es el I769  con un resultado de: 5.833333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 175 -------------------------------------------------------
+El mejor texto es el I769  con un resultado de: 3.4833333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 176 -------------------------------------------------------
+El mejor texto es el I888  con un resultado de: 4.166666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 176 -------------------------------------------------------
+El mejor texto es el I888  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 177 -------------------------------------------------------
+El mejor texto es el I370  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 177 -------------------------------------------------------
+El mejor texto es el I370  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 181 -------------------------------------------------------
+El mejor texto es el I917  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 181 -------------------------------------------------------
+El mejor texto es el I917  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 182 -------------------------------------------------------
+El mejor texto es el I1274  con un resultado de: 6.533333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 182 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 3.483333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 183 -------------------------------------------------------
+El mejor texto es el I171  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 183 -------------------------------------------------------
+El mejor texto es el I171  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 184 -------------------------------------------------------
+El mejor texto es el I1326  con un resultado de: 3.083333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 184 -------------------------------------------------------
+El mejor texto es el I1326  con un resultado de: 1.7833333333333332
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 187 -------------------------------------------------------
+El mejor texto es el I1024  con un resultado de: 3.8333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 187 -------------------------------------------------------
+El mejor texto es el I869  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 189 -------------------------------------------------------
+El mejor texto es el I328  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 189 -------------------------------------------------------
+El mejor texto es el I328  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 190 -------------------------------------------------------
+El mejor texto es el I1310  con un resultado de: 5.166666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 190 -------------------------------------------------------
+El mejor texto es el I1310  con un resultado de: 2.642857142857143
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 196 -------------------------------------------------------
+El mejor texto es el I729  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 196 -------------------------------------------------------
+El mejor texto es el I729  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 200 -------------------------------------------------------
+El mejor texto es el I928  con un resultado de: 5.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 200 -------------------------------------------------------
+El mejor texto es el I950  con un resultado de: 2.869047619047619
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 201 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 201 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 202 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 202 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 203 -------------------------------------------------------
+El mejor texto es el I866  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 203 -------------------------------------------------------
+El mejor texto es el I866  con un resultado de: 2.4166666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 204 -------------------------------------------------------
+El mejor texto es el I1016  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 204 -------------------------------------------------------
+El mejor texto es el I1016  con un resultado de: 2.1666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 205 -------------------------------------------------------
+El mejor texto es el I1021  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 205 -------------------------------------------------------
+El mejor texto es el I1021  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 206 -------------------------------------------------------
+El mejor texto es el I952  con un resultado de: 6.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 206 -------------------------------------------------------
+El mejor texto es el I952  con un resultado de: 4.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 208 -------------------------------------------------------
+El mejor texto es el I850  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 208 -------------------------------------------------------
+El mejor texto es el I764  con un resultado de: 2.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 209 -------------------------------------------------------
+El mejor texto es el I956  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 209 -------------------------------------------------------
+El mejor texto es el I956  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 210 -------------------------------------------------------
+El mejor texto es el I1038  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 210 -------------------------------------------------------
+El mejor texto es el I1038  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 211 -------------------------------------------------------
+El mejor texto es el I1294  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 211 -------------------------------------------------------
+El mejor texto es el I1294  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 212 -------------------------------------------------------
+El mejor texto es el I954  con un resultado de: 3.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 212 -------------------------------------------------------
+El mejor texto es el I954  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 213 -------------------------------------------------------
+El mejor texto es el I1294  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 213 -------------------------------------------------------
+El mejor texto es el I1294  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 214 -------------------------------------------------------
+El mejor texto es el I743  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 214 -------------------------------------------------------
+El mejor texto es el I743  con un resultado de: 2.3333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 215 -------------------------------------------------------
+El mejor texto es el I641  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 215 -------------------------------------------------------
+El mejor texto es el I641  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 216 -------------------------------------------------------
+El mejor texto es el I170  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 216 -------------------------------------------------------
+El mejor texto es el I1045  con un resultado de: 1.6666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 217 -------------------------------------------------------
+El mejor texto es el I390  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 217 -------------------------------------------------------
+El mejor texto es el I956  con un resultado de: 2.0666666666666664
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 218 -------------------------------------------------------
+El mejor texto es el I1126  con un resultado de: 5.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 218 -------------------------------------------------------
+El mejor texto es el I1126  con un resultado de: 2.7
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 219 -------------------------------------------------------
+El mejor texto es el I624  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 219 -------------------------------------------------------
+El mejor texto es el I624  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 223 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 3.7
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 223 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 224 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 224 -------------------------------------------------------
+El mejor texto es el I307  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 225 -------------------------------------------------------
+El mejor texto es el I1074  con un resultado de: 3.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 225 -------------------------------------------------------
+El mejor texto es el I1074  con un resultado de: 1.8333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 226 -------------------------------------------------------
+El mejor texto es el I584  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 226 -------------------------------------------------------
+El mejor texto es el I584  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 227 -------------------------------------------------------
+El mejor texto es el I1088  con un resultado de: 4.166666666666666
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 227 -------------------------------------------------------
+El mejor texto es el I1088  con un resultado de: 2.5666666666666664
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 230 -------------------------------------------------------
+El mejor texto es el I1101  con un resultado de: 2.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 230 -------------------------------------------------------
+El mejor texto es el I1101  con un resultado de: 1.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 231 -------------------------------------------------------
+El mejor texto es el I1302  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 231 -------------------------------------------------------
+El mejor texto es el I1302  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 232 -------------------------------------------------------
+El mejor texto es el I160  con un resultado de: 5.420634920634922
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 232 -------------------------------------------------------
+El mejor texto es el I160  con un resultado de: 3.0583333333333336
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 233 -------------------------------------------------------
+El mejor texto es el I14  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 233 -------------------------------------------------------
+El mejor texto es el I14  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 234 -------------------------------------------------------
+El mejor texto es el I969  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 234 -------------------------------------------------------
+El mejor texto es el I272  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 241 -------------------------------------------------------
+El mejor texto es el I1134  con un resultado de: 5.833333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 241 -------------------------------------------------------
+El mejor texto es el I1134  con un resultado de: 3.2928571428571427
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 245 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 7.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 245 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 4.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 246 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 8.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 246 -------------------------------------------------------
+El mejor texto es el I72  con un resultado de: 4.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 247 -------------------------------------------------------
+El mejor texto es el I232  con un resultado de: 6.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 247 -------------------------------------------------------
+El mejor texto es el I232  con un resultado de: 3.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 250 -------------------------------------------------------
+El mejor texto es el I316  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 250 -------------------------------------------------------
+El mejor texto es el I316  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 251 -------------------------------------------------------
+El mejor texto es el I71  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 251 -------------------------------------------------------
+El mejor texto es el I71  con un resultado de: 2.4
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 252 -------------------------------------------------------
+El mejor texto es el I1212  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 252 -------------------------------------------------------
+El mejor texto es el I1212  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 253 -------------------------------------------------------
+El mejor texto es el I1297  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 253 -------------------------------------------------------
+El mejor texto es el I1297  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 254 -------------------------------------------------------
+El mejor texto es el I366  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 254 -------------------------------------------------------
+El mejor texto es el I1280  con un resultado de: 2.566666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 255 -------------------------------------------------------
+El mejor texto es el I477  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 255 -------------------------------------------------------
+El mejor texto es el I477  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 257 -------------------------------------------------------
+El mejor texto es el I189  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 257 -------------------------------------------------------
+El mejor texto es el I189  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 259 -------------------------------------------------------
+El mejor texto es el I812  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 259 -------------------------------------------------------
+El mejor texto es el I179  con un resultado de: 2.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 261 -------------------------------------------------------
+El mejor texto es el I424  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 261 -------------------------------------------------------
+El mejor texto es el I1235  con un resultado de: 2.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 264 -------------------------------------------------------
+El mejor texto es el I451  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 264 -------------------------------------------------------
+El mejor texto es el I451  con un resultado de: 2.6666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 265 -------------------------------------------------------
+El mejor texto es el I1151  con un resultado de: 3.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 265 -------------------------------------------------------
+El mejor texto es el I1151  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 266 -------------------------------------------------------
+El mejor texto es el I225  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 266 -------------------------------------------------------
+El mejor texto es el I225  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 267 -------------------------------------------------------
+El mejor texto es el I767  con un resultado de: 6.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 267 -------------------------------------------------------
+El mejor texto es el I767  con un resultado de: 3.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 268 -------------------------------------------------------
+El mejor texto es el I213  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 268 -------------------------------------------------------
+El mejor texto es el I213  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 269 -------------------------------------------------------
+El mejor texto es el I31  con un resultado de: 2.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 269 -------------------------------------------------------
+El mejor texto es el I31  con un resultado de: 1.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 272 -------------------------------------------------------
+El mejor texto es el I428  con un resultado de: 5.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 272 -------------------------------------------------------
+El mejor texto es el I428  con un resultado de: 3.083333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 273 -------------------------------------------------------
+El mejor texto es el I617  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 273 -------------------------------------------------------
+El mejor texto es el I548  con un resultado de: 1.55
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 274 -------------------------------------------------------
+El mejor texto es el I38  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 274 -------------------------------------------------------
+El mejor texto es el I1374  con un resultado de: 1.5833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 275 -------------------------------------------------------
+El mejor texto es el I1339  con un resultado de: 4.416666666666667
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 275 -------------------------------------------------------
+El mejor texto es el I634  con un resultado de: 2.6166666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 277 -------------------------------------------------------
+El mejor texto es el I811  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 277 -------------------------------------------------------
+El mejor texto es el I811  con un resultado de: 1.6666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 283 -------------------------------------------------------
+El mejor texto es el I19  con un resultado de: 1.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 283 -------------------------------------------------------
+El mejor texto es el I19  con un resultado de: 0.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 284 -------------------------------------------------------
+El mejor texto es el I753  con un resultado de: 2.090909090909091
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 284 -------------------------------------------------------
+El mejor texto es el I390  con un resultado de: 1.0833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 285 -------------------------------------------------------
+El mejor texto es el I229  con un resultado de: 3.3333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 285 -------------------------------------------------------
+El mejor texto es el I229  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 288 -------------------------------------------------------
+El mejor texto es el I1126  con un resultado de: 5.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 288 -------------------------------------------------------
+El mejor texto es el I1126  con un resultado de: 2.7
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 291 -------------------------------------------------------
+El mejor texto es el I729  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 291 -------------------------------------------------------
+El mejor texto es el I729  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 292 -------------------------------------------------------
+El mejor texto es el I1362  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 292 -------------------------------------------------------
+El mejor texto es el I1362  con un resultado de: 2.25
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 293 -------------------------------------------------------
+El mejor texto es el I390  con un resultado de: 5.333333333333334
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 293 -------------------------------------------------------
+El mejor texto es el I390  con un resultado de: 2.916666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 294 -------------------------------------------------------
+El mejor texto es el I209  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 294 -------------------------------------------------------
+El mejor texto es el I209  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 295 -------------------------------------------------------
+El mejor texto es el I648  con un resultado de: 2.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 295 -------------------------------------------------------
+El mejor texto es el I648  con un resultado de: 1.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 296 -------------------------------------------------------
+El mejor texto es el I458  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 296 -------------------------------------------------------
+El mejor texto es el I733  con un resultado de: 1.6666666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 297 -------------------------------------------------------
+El mejor texto es el I744  con un resultado de: 5.9
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 297 -------------------------------------------------------
+El mejor texto es el I744  con un resultado de: 3.2857142857142856
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 298 -------------------------------------------------------
+El mejor texto es el I1173  con un resultado de: 5.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 298 -------------------------------------------------------
+El mejor texto es el I1173  con un resultado de: 3.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 299 -------------------------------------------------------
+El mejor texto es el I486  con un resultado de: 3.7
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 299 -------------------------------------------------------
+El mejor texto es el I486  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 300 -------------------------------------------------------
+El mejor texto es el I723  con un resultado de: 3.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 300 -------------------------------------------------------
+El mejor texto es el I723  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 301 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 301 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 303 -------------------------------------------------------
+El mejor texto es el I769  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 303 -------------------------------------------------------
+El mejor texto es el I769  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 304 -------------------------------------------------------
+El mejor texto es el I1053  con un resultado de: 5.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 304 -------------------------------------------------------
+El mejor texto es el I1053  con un resultado de: 2.8333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 306 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 5.083333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 306 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 2.783333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 314 -------------------------------------------------------
+El mejor texto es el I1310  con un resultado de: 6.642857142857143
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 314 -------------------------------------------------------
+El mejor texto es el I1310  con un resultado de: 3.625
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 315 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 315 -------------------------------------------------------
+El mejor texto es el I927  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 316 -------------------------------------------------------
+El mejor texto es el I147  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 316 -------------------------------------------------------
+El mejor texto es el I147  con un resultado de: 2.033333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 317 -------------------------------------------------------
+El mejor texto es el I131  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 317 -------------------------------------------------------
+El mejor texto es el I131  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 321 -------------------------------------------------------
+El mejor texto es el I797  con un resultado de: 4.333333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 321 -------------------------------------------------------
+El mejor texto es el I1290  con un resultado de: 2.6912698412698415
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 323 -------------------------------------------------------
+El mejor texto es el I274  con un resultado de: 3.3333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 323 -------------------------------------------------------
+El mejor texto es el I274  con un resultado de: 1.75
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 327 -------------------------------------------------------
+El mejor texto es el I163  con un resultado de: 7.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 327 -------------------------------------------------------
+El mejor texto es el I163  con un resultado de: 4.15
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 331 -------------------------------------------------------
+El mejor texto es el I417  con un resultado de: 4.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 331 -------------------------------------------------------
+El mejor texto es el I417  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 332 -------------------------------------------------------
+El mejor texto es el I1172  con un resultado de: 5.611111111111112
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 332 -------------------------------------------------------
+El mejor texto es el I1172  con un resultado de: 3.1833333333333336
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 333 -------------------------------------------------------
+El mejor texto es el I839  con un resultado de: 2.8333333333333335
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 333 -------------------------------------------------------
+El mejor texto es el I839  con un resultado de: 1.5833333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 335 -------------------------------------------------------
+El mejor texto es el I1177  con un resultado de: 4.499999999999999
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 335 -------------------------------------------------------
+El mejor texto es el I1177  con un resultado de: 2.583333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 336 -------------------------------------------------------
+El mejor texto es el I765  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 336 -------------------------------------------------------
+El mejor texto es el I1173  con un resultado de: 2.2333333333333334
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 338 -------------------------------------------------------
+El mejor texto es el I1154  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 338 -------------------------------------------------------
+El mejor texto es el I1154  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 339 -------------------------------------------------------
+El mejor texto es el I273  con un resultado de: 3.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 339 -------------------------------------------------------
+El mejor texto es el I273  con un resultado de: 2.1666666666666665
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 340 -------------------------------------------------------
+El mejor texto es el I800  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 340 -------------------------------------------------------
+El mejor texto es el I1274  con un resultado de: 2.5333333333333337
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 347 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 5.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 347 -------------------------------------------------------
+El mejor texto es el I625  con un resultado de: 2.8333333333333335
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 348 -------------------------------------------------------
+El mejor texto es el I575  con un resultado de: 4.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 348 -------------------------------------------------------
+El mejor texto es el I575  con un resultado de: 2.0
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 349 -------------------------------------------------------
+El mejor texto es el I1222  con un resultado de: 4.75
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 349 -------------------------------------------------------
+El mejor texto es el I1222  con un resultado de: 2.5333333333333337
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 352 -------------------------------------------------------
+El mejor texto es el I1375  con un resultado de: 6.95
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 352 -------------------------------------------------------
+El mejor texto es el I1375  con un resultado de: 3.8666666666666667
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 353 -------------------------------------------------------
+El mejor texto es el I292  con un resultado de: 4.833333333333333
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 353 -------------------------------------------------------
+El mejor texto es el I292  con un resultado de: 2.583333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 355 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 2.5
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 355 -------------------------------------------------------
+El mejor texto es el I830  con un resultado de: 1.3333333333333333
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 356 -------------------------------------------------------
+El mejor texto es el I856  con un resultado de: 3.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 356 -------------------------------------------------------
+El mejor texto es el I856  con un resultado de: 1.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 360 -------------------------------------------------------
+El mejor texto es el I315  con un resultado de: 4.25
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 360 -------------------------------------------------------
+El mejor texto es el I315  con un resultado de: 2.2
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 365 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 5.0
+Para el metodo: coseno
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
+
+-------------------------------------------------------------- Para la query q: I 365 -------------------------------------------------------
+El mejor texto es el I798  con un resultado de: 2.5
+Para el metodo: jaccard
+Con un valor de lematizacion de: False, de stematizacion de: False y un StopWords de NLTK de: true
