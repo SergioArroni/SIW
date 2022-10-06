@@ -1,18 +1,18 @@
 # SIW
 
-## Crawler P2
-He realizado los dos opcionales tanto la busqueda en profundidad y anchura, como el fichero de robots.txt
+## Similitud entre textos P3
+He realizado los opcionales de lematizacion, de stematizacion y de stop words. (Hice todos, no recuerdo si hay más)
 
 - Para ejecutar el archivo se le pasan los parametros por consola, si pulsas -h te sacara la ayuda, pero en resumen:
     ```
-        -p  Busqueda en profundidad
-        -a  Busqueda en anchura  
-        --m  Maximos docs a descargar
-        --s  Segundos entre peticiones
-        --file Ruta archivo de semillas
+        -l  Si se quiere usar o no lematizacion [False]
+        -s  Si se quiere usar o no stematizacion [False] 
+        -stop  Si se quiere usar o no stop words [False]
+        --qfile Ruta archivo de querys
+        --file Ruta archivo de textos
     ```
-- El fichero semillas.txt son las semillas que use yo y los dos .txt de resultados son para 10 archivos descargados.
+- Los ficherps cran-1400.txt y cran-querys.txt son los que utilice para las salidas resultados_lema, stema, stop y  false. Cada una de estas salidas corresponde a unos parametros diferentes, tanto el nombre como el documento son bastantes descriptivos, estos documentos se encuentran en la carpeta docs.
 
-- La carpeta docs es donde se descargan los htmls y se guardan las urls en las que busco. 
+- Tambien, probe a introducir una query entre los textos para comprobar que me salia el maximo de correlacion, esta prueba se encuentra en cran-1400_plus.txt y el resultado esta en resultados_lema_plus
 
  
