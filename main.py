@@ -67,11 +67,9 @@ def process_file(args, query=True):
     """
     texts = list(
         open(
-            args.qfile,
-            "r")) if query else list(
+            args.qfile, "r")) if query else list(
         open(
-            args.file,
-            "r"))
+            args.file, "r"))
 
     texts_list = [line.rstrip('\n') for line in texts]
 
