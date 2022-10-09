@@ -1,7 +1,7 @@
 # SIW
 
 ## Similitud entre textos P3
-He realizado los opcionales de lematizacion, de stematizacion y de stop words utilizando el fichero de stop words de NLTK. (Hice todos, no recuerdo si hay más)
+He realizado los opcionales de lematizacion, de stematizacion y de stop words utilizando el fichero de stop words de NLTK. Tambien realice la implementación de medidas de similitud que incorporan frecuencia de aparición de los términos en consultas y documentos. :)
 
 - Para ejecutar el archivo se le pasan los parametros por consola, si pulsas -h te sacara la ayuda, pero en resumen:
     ```

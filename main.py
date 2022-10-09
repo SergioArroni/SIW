@@ -6,6 +6,8 @@
 #
 # =========================================================
 
+from difflib import restore
+from io import TextIOWrapper
 import math
 import nltk
 import argparse
@@ -14,7 +16,7 @@ from textblob import TextBlob as tb
 nltk.download('omw-1.4')
 
 
-def main(args):
+def main(args: argparse.Namespace):
     """main
 
         Contiene toda la logica del Sistema
@@ -22,7 +24,6 @@ def main(args):
         Params:
             args, todos los argumentos dados por consola
     """
-
     bag_query = process_file(args)
 
     bag_text = process_file(args, False)
@@ -35,8 +36,7 @@ def main(args):
 
     f.close()
 
-
-def process_metodo(f, q, bag_query, bag_text, metodo, metodo_name, args):
+def process_metodo(f: TextIOWrapper, q: str, bag_query, bag_text, metodo, metodo_name, args) -> None:
     """process_metodo
 
         Funcion que procesa los documentos y haya la similitud dependiendo del metodo dado
@@ -66,10 +66,8 @@ def process_file(args, query=True):
             query, bool que elige entre si se esta procesando las querys o el texto, por defecto True
     """
     texts = list(
-        open(
-            args.qfile, "r")) if query else list(
-        open(
-            args.file, "r"))
+        open(args.qfile, "r")) if query else list(
+        open(args.file, "r"))
 
     texts_list = [line.rstrip('\n') for line in texts]
 
@@ -225,7 +223,7 @@ def presentacion():
     print("Autor: Sergio Arroni del Riego - UO276341\n\n\n")
 
 
-def parse_args():
+def parse_args() -> argparse.Namespace:
     """Parse_args
 
     Funcion que permite usar la consola para añadir parametros de una forma usable.
