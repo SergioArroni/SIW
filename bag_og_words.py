@@ -6,7 +6,6 @@
 #
 # =========================================================
 
-from difflib import restore
 import nltk
 from nltk.corpus import stopwords
 from textblob import TextBlob as tb
@@ -15,51 +14,71 @@ nltk.download('omw-1.4')
 
 class BagOfWords(object):
 
-    def __init__(self, text=None, values=None, ngramas=0):
+    def __init__(self, text: str = None, ngramas: int = 1):
         """Constructor
 
-        Si recibe un string mediante el argumento text lo convierte a un
-        diccionario. Si recibe un diccionario simplemente lo copia para su
-        uso interno.
+            Constructor de la clase BagOfWords
+            
+        Parameters:
+            text: str (default None)
+            ngramas: int (default 1)
+            
+        Output: None
         """
-        self.text = text
-        if values is not None:
-            self.values = values
-        elif type(text) is dict:
-            self.values = text
-        elif type(text) is str:
-            self.values = self.string_to_bag_of_words(text, {})
-        elif type(text) is list:
-            bag = {}
-            for i in text:
-                bag = self.string_to_bag_of_words(text, bag)
-            self.values = bag
+        self.text: str = text
+        self.ngramas: int = ngramas
+
+        if type(text) is str:
+            self.values = self.string_to_bag_of_words(text)
         else:
             self.values = {}
 
-    def __str__(self):
-        """Devuelve un string con la representacion del objeto
+    def string_to_bag_of_words(self, text: str) -> dict:
+        """string_to_bag_of_words
 
-        El objeto BagOfWords(“A b a”) está representado por el string
-        "{‘a’: 2, ‘b’: 1}"
+            Funcion que convierte un string en un diccionario de palabras tokenizadas ( bag of words )
+            con lematizacion, sin stopwords y sin signos de puntuacion y en minusculas
+
+        Parameters:
+            text: str
+
+        Outpup: dict
         """
-        return str(self.values)
-
-    def string_to_bag_of_words(self, text, bag):
-        """Convierte un string a bag of words"""
-
-        tokens = tb(text).words
+        bag = {}
+        tokens = tb(text).ngrams(n=self.ngramas)
+        # tokens= tb(text).words
 
         stop = set(stopwords.words('english'))
+        signos_puntuacion = ["?", "¿", "¡", "!", " ", ",", ".", ";",
+                             ":", "(", ")", "[", "]", "{", "}", "-", "_", "—", "'"]
 
         for token in tokens:
-            if token in stop:
-                continue
+            while len(token) > 0:
+                token_real = tb(token.pop()).words[0]
+                if token_real in stop and token_real in signos_puntuacion:
+                    continue
 
-            token = token.lemmatize()
+                token_real = token_real.lemmatize()
 
-            token = token.lower()
+                token_real = token_real.lower()
 
-            bag[token] = bag[token] + 1 if token in bag else 1
+                if token_real in stop:
+                    continue
+
+                bag[token_real] = bag[token_real] + \
+                    1 if token_real in bag else 1
+            tokens = tokens[1:]
 
         return bag
+
+    # Override
+    def __str__(self) -> str:
+        """__str__
+
+            Devuelve un string con la representacion del objeto
+
+        Parameters:
+
+        Output: str
+        """
+        return str(self.values)

@@ -1,18 +1,15 @@
 # SIW
 
-## Similitud entre textos P3
-He realizado los opcionales de lematizacion, de stematizacion y de stop words utilizando el fichero de stop words de NLTK. Tambien realice la implementación de medidas de similitud que incorporan frecuencia de aparición de los términos en consultas y documentos. :)
+## Detección de documentos cuasi-duplicados P4
+Respecto a la practica anterior, el bag_of_words esta usando lematizacion, palabras vacias,
+signos de puntuacion y minusculas.
+
+Respecto a esta practica permito parametrizar los n-gramas. He provado con unigramas, bigramas y trigramas, para todos ellos me ha salido los mismos elemeentos cuasi-duplicados (restrictiveness = 10), que son los mismos que hay en el archivo articles_1000.truth
 
 - Para ejecutar el archivo se le pasan los parametros por consola, si pulsas -h te sacara la ayuda, pero en resumen:
     ```
-        -l  Si se quiere usar o no lematizacion         [False]
-        -s  Si se quiere usar o no stematizacion        [False] 
-        -stop  Si se quiere usar o no stop words        [False]
-        --qfile Ruta archivo de querys                  [cran-querys.txt]
-        --file Ruta archivo de textos                   [cran-1400.txt]
+        -r  Numero de restrictiveness que se quiera aplicar         [10]
+        -n  Numero de ngramas que se quieran usar                   [1] 
+        --file Ruta archivo de textos                               [articles_1000.train]
     ```
-- Los ficherps cran-1400.txt y cran-querys.txt son los que utilice para las salidas resultados_lema, stema, stop y  false. Cada una de estas salidas corresponde a unos parametros diferentes, tanto el nombre como el documento son bastantes descriptivos, estos documentos se encuentran en la carpeta docs.
-
-- Tambien, probe a introducir una query entre los textos para comprobar que me salia el maximo de correlacion, esta prueba se encuentra en cran-1400_plus.txt y el resultado esta en resultados_lema_plus
-
- 
+- En docs encontraras las salidas para cada n-grama provado, tambien mi scrip genera un resultados.txt en el que guardo cada doc y su simhash, esto lo hice para comprobar que todo me fuera bien y tenian sentido los simhash.
