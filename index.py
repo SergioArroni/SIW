@@ -16,6 +16,7 @@ class Index:
         self.n_total = 0
 
     def load_data(self) -> dict:
+
         """load_data
 
             Funcion que carga los datos de un fichero
