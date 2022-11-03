@@ -1,3 +1,0 @@
-https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
-https://en.wikipedia.org/wiki/GPT-3
-https://en.wikipedia.org/wiki/BERT_(language_model)

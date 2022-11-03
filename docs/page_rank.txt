@@ -1,0 +1,64 @@
+Fichero Cargado:	./data/graph01.txt
+PageRank:	{'A': 0.13713564879912143, 'B': 0.0638550993855843, 'C': 0.2556527266890443, 'D': 0.12275425789575105, 'E': 0.13944235097566446, 'F': 0.28115991625483455}
+PageRankTotal:	1.0000000000000002
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	22
+
+Fichero Cargado:	./data/graph02.txt
+PageRank:	{'A': 0.025000000000000005, 'B': 0.04625000000000001, 'C': 0.06431250000000001, 'D': 0.079665625, 'E': 0.09271578125, 'F': 0.69205609375}
+PageRankTotal:	1.0
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	6
+
+Fichero Cargado:	./data/graph03.txt
+PageRank:	{'A': 0.16666666666666666, 'B': 0.16666666666666666, 'C': 0.16666666666666666, 'D': 0.16666666666666666, 'E': 0.16666666666666666, 'F': 0.16666666666666666}
+PageRankTotal:	0.9999999999999999
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	1
+
+Fichero Cargado:	./data/graph04.txt
+PageRank:	{'A': 0.1097438494362665, 'B': 0.19939728435941173, 'C': 0.1908588662043217, 'D': 0.1908588662043217, 'E': 0.19939728435941173, 'F': 0.1097438494362665}
+PageRankTotal:	0.9999999999999998
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	44
+
+Fichero Cargado:	./data/graph05.txt
+PageRank:	{'A': 0.1097438494362665, 'B': 0.19939728435941173, 'C': 0.1908588662043217, 'D': 0.1908588662043217, 'E': 0.19939728435941173, 'F': 0.1097438494362665}
+PageRankTotal:	0.9999999999999998
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	44
+
+Fichero Cargado:	./data/graph06.txt
+PageRank:	{'B': 0.32418059286173806, 'C': 0.2891898476877645, 'D': 0.03296369665389088, 'E': 0.06821411653244909, 'F': 0.03296369665389088, 'G': 0.01363636363636364, 'H': 0.01363636363636364, 'I': 0.01363636363636364, 'J': 0.01363636363636364, 'K': 0.01363636363636364, 'A': 0.18430623142844837}
+PageRankTotal:	1.0000000000000002
+Iteraciones:	100
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.0
+Paro en la iteracion:	99
+
+
+Fichero Cargado:	./data/graph06.txt
+PageRank:	{'B': 0.32418058294158414, 'C': 0.28918986700169863, 'D': 0.03296369665389088, 'E': 0.06821411653244909, 'F': 0.03296369665389088, 'G': 0.01363636363636364, 'H': 0.01363636363636364, 'I': 0.01363636363636364, 'J': 0.01363636363636364, 'K': 0.01363636363636364, 'A': 0.1843062341913249}
+PageRankTotal:	1.000000012156657
+Iteraciones:	200
+Damping:	0.85
+Limit:	1e-08
+Peso inicial:	1.6
+Paro en la iteracion:	108
+
