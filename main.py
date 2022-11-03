@@ -23,7 +23,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--file", help="Fichero donde extraerá el grafo a calcular con PageRank. Default: ./data/graph01.txt",
                         type=str, default="./data/graph01.txt")
     parser.add_argument(
-        "--iter", help="El numero de iteraciones que ejecutara PageRank, a no ser que pare antes por el limite. Default: 100", type=int, default=100)
+        "--iter", help="El numero máximo de iteraciones que ejecutara PageRank, a no ser que pare antes por el limite. Default: 100", type=int, default=100)
     parser.add_argument(
         "--init", help="El numero con el que inicializar los nodos. Default: 1", type=float, default=1.0)
     parser.add_argument(
