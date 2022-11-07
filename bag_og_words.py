@@ -6,6 +6,7 @@
 #
 # =========================================================
 
+from functools import reduce
 import nltk
 from nltk.corpus import stopwords
 from textblob import TextBlob as tb
@@ -14,22 +15,21 @@ nltk.download('omw-1.4')
 
 class BagOfWords(object):
 
-    def __init__(self, text: str = None, ngramas: int = 1):
+    def __init__(self, enable_stop: bool, text: str = None):
         """Constructor
 
             Constructor de la clase BagOfWords
-            
+
         Parameters:
             text: str (default None)
-            ngramas: int (default 1)
-            
+
         Output: None
         """
-        self.text: str = text
-        self.ngramas: int = ngramas
+        self.text: str = text.rstrip()
+        self.enable_stop = enable_stop
 
         if type(text) is str:
-            self.values = self.string_to_bag_of_words(text)
+            self.values = self.string_to_bag_of_words(self.text)
         else:
             self.values = {}
 
@@ -45,31 +45,32 @@ class BagOfWords(object):
         Outpup: dict
         """
         bag = {}
-        tokens = tb(text).ngrams(n=self.ngramas)
-        # tokens= tb(text).words
+        tokens= tb(text).words
 
-        stop = set(stopwords.words('english'))
+        stop = set(stopwords.words('english')) if self.enable_stop else set()
         signos_puntuacion = ["?", "¿", "¡", "!", " ", ",", ".", ";",
                              ":", "(", ")", "[", "]", "{", "}", "-", "_", "—", "'"]
 
         for token in tokens:
-            while len(token) > 0:
-                token_real = tb(token.pop()).words[0]
-                if token_real in stop and token_real in signos_puntuacion:
-                    continue
 
-                token_real = token_real.lemmatize()
+            if token in stop and token in signos_puntuacion:
+                continue
 
-                token_real = token_real.lower()
+            token = token.lemmatize()
 
-                if token_real in stop:
-                    continue
+            token = token.lower()
 
-                bag[token_real] = bag[token_real] + \
-                    1 if token_real in bag else 1
-            tokens = tokens[1:]
+            if token in stop:
+                continue
+
+            bag[token] = bag[token] + 1 if token in bag else 1
+
 
         return bag
+    
+    def value_sum(self):
+        return reduce((lambda x, value: x + value), self.values.values(), 0)
+
 
     # Override
     def __str__(self) -> str:

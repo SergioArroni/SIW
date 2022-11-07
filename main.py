@@ -77,6 +77,6 @@ if __name__ == "__main__":
     '''
         
     ind = index.Index(parse_args())
-    #ind.implementation_inice()
-    ind.implementation_query()
+    ind.implementation_inice()
+    #ind.implementation_query()
 
