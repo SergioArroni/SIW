@@ -26,7 +26,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description='Similitud entre hashes, textos cuasi-duplicados, para la asignatura SIW')
     parser.add_argument("--file", help="Fichero donde extraera los textos a consultar. Default: ./data/cran-1400.txt",
-                        type=str, default="./data/cran-1400.txt")
+                        type=str, default="./data/cran-1400_plus.txt")
     parser.add_argument("--query", help="Fichero donde extraera las query a consultar. Default: ./data/cran-queries.txt",
                         type=str, default="./data/cran-queries_plus.txt")
     parser.add_argument("--index", help="Fichero donde se guardara el index. Default: ./docs/index",
@@ -77,6 +77,6 @@ if __name__ == "__main__":
     '''
         
     ind = index.Index(parse_args())
-    ind.implementation_inice()
-    #ind.implementation_query()
+    #ind.implementation_inice()
+    ind.implementation_query()
 
