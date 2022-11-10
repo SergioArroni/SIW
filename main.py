@@ -6,13 +6,9 @@
 #
 # =========================================================
 
-import json
 import bag_og_words as bag
 import argparse
 import index
-import argparse
-import io
-import gzip
 
 
 def parse_args() -> argparse.Namespace:
@@ -26,15 +22,13 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description='Similitud entre hashes, textos cuasi-duplicados, para la asignatura SIW')
     parser.add_argument("--file", help="Fichero donde extraera los textos a consultar. Default: ./data/cran-1400.txt",
-                        type=str, default="./data/cran-1400_plus.txt")
+                        type=str, default="./data/cran-1400.txt")
     parser.add_argument("--query", help="Fichero donde extraera las query a consultar. Default: ./data/cran-queries.txt",
-                        type=str, default="./data/cran-queries_plus.txt")
+                        type=str, default="./data/cran-queries.txt")
     parser.add_argument("--index", help="Fichero donde se guardara el index. Default: ./docs/index",
                         type=str, default="./docs/index")
     parser.add_argument("--query_json", help="Fichero donde se guardara la respuesta de la query. Default: ./docs/result",
                         type=str, default="./docs/result")
-    parser.add_argument(
-        "--zip", help="Si comprimir o no el indice. Default: False", type=bool, default=False)
     parser.add_argument(
         "--nb", help="Si comprimir o no el indice. Default: False", type=bool, default=False)
     args = parser.parse_args()
@@ -77,6 +71,6 @@ if __name__ == "__main__":
     '''
         
     ind = index.Index(parse_args())
-    #ind.implementation_inice()
+    ind.implementation_inice()
     ind.implementation_query()
 

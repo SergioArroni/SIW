@@ -1,8 +1,6 @@
 import json
 import math
-import pickle
-from re import I
-from typing import Counter
+import operator
 import bag_og_words as bag_w
 import argparse
 
@@ -19,6 +17,7 @@ class Index:
         self.n_total = 0
         self.path_indice = args.index
         self.path_query = args.query_json
+        self.path_docs = "./docs/docs"
 
     def load_data(self, name: str) -> dict:
         """load_data
@@ -60,51 +59,65 @@ class Index:
 
         self.index_json = json.load(open(self.path_indice + ".json", "r"))
 
-        self.cos()
+        self.docs_json = json.load(open(self.path_docs + ".json", "r"))
+
+        self.save_json(self.path_query, self.cos())
 
     def cos(self):
-        self.list_cos = []
+        total_result = {}
         list_id = {}
-        pal_dict = {}
-        result = {}
-        
+
         for k, v in self.id_bag.items():
             for k_2, _ in v.values.items():
                 if k_2 in self.index_json and self.index_json[k_2][0]["idf"] != 0:
-                    pal_dict[k_2] = self.index_json[k_2][1]["textos"]
                     if k in list_id:
                         for ele in self.index_json[k_2][1]["textos"]:
-                            if not(ele in list_id[k]):
+                            if not (ele in list_id[k]):
                                 list_id[k].append(ele)
                     else:
                         list_id[k] = self.index_json[k_2][1]["textos"]
 
-        # Tengo que trabajar, pero ta enfilado, ahora mismo tengo una lista con todos los textos para cada query y sus valores de tf, tf*idf y tf*idf^2. 
         for k, v in self.id_bag.items():
             mod_query = 0
             mod_doc = 0
-            num = 0
+            mod_doc_pow = 0
             mod_query_list = []
-            mod_doc_list = []
+            num_dict = {}
+            num_dict_aux = {}
+            mod_doc_dict_pow = {}
+            result = {}
 
-            
             for k_2, v_2 in v.values.items():
-                mod_query += math.pow(self.index_json[k_2][0]["idf"] * (v_2 / v.value_sum()), 2)
-                mod_query_list.append(mod_query)
+                if k_2 in self.index_json:
+                    value = self.index_json[k_2][0]["idf"] * \
+                        (v_2 / v.value_sum())
+                    mod_query += math.pow(value, 2)
+                    mod_query_list.append(value)
+                    num_dict[k_2] = value
 
-            for ele in self.index_json:
-                if self.index_json[ele][0]["idf"] != 0:
-                    for ele in self.index_json[ele][1]["textos"]:
-                        # Ta mal
-                        for k, v in ele:
-                            if k in list_id:
-                                mod_doc += v[2]
-                                mod_doc_list.append(mod_doc)
+            for ele in list_id[k]:
+                for k_2, _ in ele.items():
+                    mod_doc_pow = 0
+                    mod_doc = 0
+                    if k_2 in self.docs_json:
+                        for k_3, v_3 in self.docs_json[k_2].items():
+                            mod_doc_pow += math.pow(v_3, 2)
+                            if k_3 in v.values.keys():
+                                mod_doc += v_3
+                                if k_2 in num_dict_aux:
+                                    num_dict_aux[k_2] += num_dict[k_3] * mod_doc
+                                else:
+                                    num_dict_aux[k_2] = num_dict[k_3] * mod_doc
+                            mod_doc_dict_pow[k_2] = mod_doc_pow
 
+                    result[k_2] = num_dict_aux[k_2] / \
+                        (math.sqrt(mod_doc_dict_pow[k_2])
+                         * math.sqrt(mod_query))
 
-            result[k] = num / (math.sqrt(mod_doc) * math.sqrt(mod_query))
+            total_result[k] = sorted(
+                result.items(), key=operator.itemgetter(1), reverse=True)
 
-        return result
+        return total_result
 
     def implementation_inice(self) -> dict:
         """implementation
@@ -123,13 +136,14 @@ class Index:
             bag = bag_w.BagOfWords(text=v, enable_stop=False)
             self.id_bag[k] = bag
 
-        self.save_json(self.path_indice)
+        self.save_json(self.path_indice, self.to_dict())
 
         print("----------------------------------------------")
 
     def to_dict(self):
         docs_aux = {}
         TF = {}
+        docs_aux_to_json = {}
 
         for k, v in self.id_bag.items():
             TF = {}
@@ -158,11 +172,36 @@ class Index:
                         self.index_total[k] = [{"idf": v}, {
                             "textos": [{k_2: [v_2[k], v_2[k] * v, math.pow(v_2[k] * v, 2)]}]}]
 
+        for k, v in docs_aux.items():
+            for k_2, v_2 in self.index.items():
+                if v_2 == 0:
+                    continue
+                if k_2 in v:
+                    if k in docs_aux_to_json:
+                        docs_aux_to_json[k].append(
+                            {k_2: v[k_2] * v_2})
+                    else:
+                        docs_aux_to_json[k] = [{k_2: v[k_2] * v_2}]
+        self.save_docs(docs_aux_to_json)
         return self.index_total
 
-    def save_json(self, name: str):
+    def save_docs(self, docs: dict) -> None:
+        """implementation
+
+            Funcion que carga los datos, los tokeniza y los procesa con el algoritmo SimHash,
+            devolviendo un diccionario con los resultados 
+
+        Parameters:
+
+        Output: dict
+        """
+        f = open(self.path_docs + ".json", "w")
+        f.write(json.dumps(docs))
+        f.close()
+
+    def save_json(self, name: str, data: dict):
         f = open(name + ".json", "w")
-        f.write(json.dumps(self.to_dict()))
+        f.write(json.dumps(data))
         f.close()
 
     def add(self, key, value):
@@ -200,26 +239,3 @@ class Index:
             else:
                 text_aux += " " + i
         self.n_total = len(self.train_list.keys())
-
-    '''
-    def __str__(self):
-        return str(self.index)
-
-    def __repr__(self):
-        return str(self.index)
-
-    def __getitem__(self, key):
-        return self.get(key)
-
-    def __setitem__(self, key, value):
-        self.add(key, value)
-
-    def __contains__(self, key):
-        return key in self.index
-
-    def __len__(self):
-        return len(self.index)
-
-    def __iter__(self):
-        return iter(self.index)
-    '''
