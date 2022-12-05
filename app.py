@@ -1,13 +1,8 @@
-# -*- coding: utf-8 -*-
-
-# =========================================================
-#
-# Autor: Sergio Arroni del Riego
-#
-# =========================================================
-
 import argparse
+from flask import Flask
 import index
+
+app = Flask(__name__)
 
 
 def parse_args() -> argparse.Namespace:
@@ -21,9 +16,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description='Index, para la asignatura SIW')
     parser.add_argument("--file", help="Fichero donde extraera los textos a consultar. Default: ./data/cran-1400.txt",
-                        type=str, default="./data/cran-1400.txt")
+                        type=str, default="./data/cran-1400_plus.txt")
     parser.add_argument("--query", help="Fichero donde extraera las query a consultar. Default: ./data/cran-queries.txt",
-                        type=str, default="./data/cran-queries.txt")
+                        type=str, default="./data/cran-queries_plus.txt")
     parser.add_argument("--index", help="Fichero donde se guardara el index. Default: ./docs/index",
                         type=str, default="./docs/index")
     parser.add_argument("--query_json", help="Fichero donde se guardara la respuesta de la query. Default: ./docs/result",
@@ -32,31 +27,23 @@ def parse_args() -> argparse.Namespace:
     return args
 
 
-def presentacion():
-    """Presentacion
-
-    Funcion que muestra una presentacion muy bonita
-
-    """
-
-    print("Trabajo de Indice y de consulta de dicho indice. Para la asignatura SIW :)\nAñade el argumento \"-h\" a la hora de ejecutar para obtener la ayuda del Script")
-    print("Autor: Sergio Arroni del Riego - UO276341\n\n\n")
+param = ["./data/cran-1400_plus.txt",
+         "./data/cran-queries_plus.txt", "./docs/index", "./docs/result"]
 
 
-if __name__ == "__main__":
-    """__main__
+@app.route('/')
+def main():
+    return "Autor: Sergio Arroni del Riego - UO276341\n\n\n"
 
-    Primero imprime la presentacion del trabajo y luego el main con la logica del mismo
 
-    """
-    presentacion()
-    
-    ind = index.Index(parse_args())
-    ind.implementation_inice()
-    
-    ind = index.Index(parse_args())
+@app.route('/index')
+def load_index():
+    ind = index.Index(param)
+    return ind.implementation_inice()
+
+
+@app.route('/query')
+def load_query():
+    ind = index.Index(param)
     ind.implementation_query()
-        
-    
-    
-
+    return ind.print_json(param[3])

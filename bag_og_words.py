@@ -45,7 +45,7 @@ class BagOfWords(object):
         Outpup: dict
         """
         bag = {}
-        tokens= tb(text).words
+        tokens = tb(text).words
 
         stop = set(stopwords.words('english')) if self.enable_stop else set()
         signos_puntuacion = ["?", "¿", "¡", "!", " ", ",", ".", ";",
@@ -65,14 +65,22 @@ class BagOfWords(object):
 
             bag[token] = bag[token] + 1 if token in bag else 1
 
-
         return bag
-    
-    def value_sum(self):
+
+    def value_sum(self) -> int:
+        '''value_sum
+
+            Funcion que devuelve la suma de los valores del diccionario
+
+        Parameters:
+            None
+        Output:
+            int
+        '''
         return reduce((lambda x, value: x + value), self.values.values(), 0)
 
-
     # Override
+
     def __str__(self) -> str:
         """__str__
 

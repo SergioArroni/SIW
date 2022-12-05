@@ -8,6 +8,14 @@ import argparse
 class Index:
 
     def __init__(self, args: argparse.Namespace) -> None:
+        '''__init__
+            Funcion que inicializa la clase Index
+
+        Parameters:
+            args: argparse.Namespace
+        Output:
+            None
+        '''
         self.filename = args.file
         self.query = args.query
         self.index = {}
@@ -19,13 +27,33 @@ class Index:
         self.path_query = args.query_json
         self.path_docs = "./docs/docs"
 
+    def __init__(self, args: list) -> None:
+        '''__init__
+            Funcion que inicializa la clase Index
+
+        Parameters:
+            args: argparse.Namespace
+        Output:
+            None
+        '''
+        self.filename = args[0]
+        self.query = args[1]
+        self.index = {}
+        self.index_total = {}
+        self.id_bag = {}
+        self.train_list = {}
+        self.n_total = 0
+        self.path_indice = args[2]
+        self.path_query = args[3]
+        self.path_docs = "./docs/docs"
+
     def load_data(self, name: str) -> dict:
         """load_data
 
             Funcion que carga los datos de un fichero
 
         Parameters:
-            None
+            name: str
         Output: 
             dict
         """
@@ -39,13 +67,12 @@ class Index:
         self.n_total = len(self.train_list.keys())
 
     def implementation_query(self) -> dict:
-        """implementation
+        """implementation_query
 
-            Funcion que carga los datos, los tokeniza y los procesa con el algoritmo SimHash,
-            devolviendo un diccionario con los resultados 
+            Funcion que carga los datos, los tokeniza, los procesa en el las query y los guarda en un fichero json
 
         Parameters:
-
+            None
         Output: dict
         """
         print("Query")
@@ -63,7 +90,17 @@ class Index:
 
         self.save_json(self.path_query, self.cos())
 
-    def cos(self):
+        return "OK"
+
+    def cos(self) -> dict:
+        '''cos
+            Funcion que calcula el coseno de los documentos. De una forma poco optima
+
+        Parameters:
+            None
+        Output:
+            dict
+        '''
         total_result = {}
         list_id = {}
 
@@ -100,14 +137,15 @@ class Index:
                     mod_doc_pow = 0
                     mod_doc = 0
                     if k_2 in self.docs_json:
-                        for k_3, v_3 in self.docs_json[k_2].items():
-                            mod_doc_pow += math.pow(v_3, 2)
-                            if k_3 in v.values.keys():
-                                mod_doc += v_3
-                                if k_2 in num_dict_aux:
-                                    num_dict_aux[k_2] += num_dict[k_3] * mod_doc
-                                else:
-                                    num_dict_aux[k_2] = num_dict[k_3] * mod_doc
+                        for pal in self.docs_json[k_2]:
+                            for k_3, v_3 in pal.items():
+                                mod_doc_pow += math.pow(v_3, 2)
+                                if k_3 in v.values.keys():
+                                    mod_doc += v_3
+                                    if k_2 in num_dict_aux:
+                                        num_dict_aux[k_2] += num_dict[k_3] * mod_doc
+                                    else:
+                                        num_dict_aux[k_2] = num_dict[k_3] * mod_doc
                             mod_doc_dict_pow[k_2] = mod_doc_pow
 
                     result[k_2] = num_dict_aux[k_2] / \
@@ -119,15 +157,15 @@ class Index:
 
         return total_result
 
-    def implementation_inice(self) -> dict:
+    def implementation_inice(self) -> str:
         """implementation
 
-            Funcion que carga los datos, los tokeniza y los procesa con el algoritmo SimHash,
-            devolviendo un diccionario con los resultados 
+            Funcion que carga los datos, los tokeniza, los procesa en el indice y los guarda en un fichero json
 
         Parameters:
-
-        Output: dict
+            None
+        Output:
+            str
         """
         print("Index")
         self.load_data(self.filename)
@@ -139,8 +177,17 @@ class Index:
         self.save_json(self.path_indice, self.to_dict())
 
         print("----------------------------------------------")
+        return "OK"
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
+        '''to_dict
+            Funcion que crea el indice
+
+        Parameters:
+            None
+        Output:
+            dict
+        '''
         docs_aux = {}
         TF = {}
         docs_aux_to_json = {}
@@ -186,56 +233,36 @@ class Index:
         return self.index_total
 
     def save_docs(self, docs: dict) -> None:
-        """implementation
+        """save_docs
 
-            Funcion que carga los datos, los tokeniza y los procesa con el algoritmo SimHash,
-            devolviendo un diccionario con los resultados 
+            Funcion que guarda los documentos en un fichero json
 
         Parameters:
-
-        Output: dict
+            docs (dict): Diccionario con los documentos
+        Output:
+            None
         """
         f = open(self.path_docs + ".json", "w")
         f.write(json.dumps(docs))
         f.close()
 
-    def save_json(self, name: str, data: dict):
+    def save_json(self, name: str, data: dict) -> None:
+        """save_docs
+
+            Funcion que guarda los documentos en un fichero json
+
+        Parameters:
+            name (str): Nombre del fichero
+            data (dict): Diccionario con los datos
+        Output:
+            None
+        """
         f = open(name + ".json", "w")
         f.write(json.dumps(data))
         f.close()
 
-    def add(self, key, value):
-        if key in self.index:
-            self.index[key].append(value)
-        else:
-            self.index[key] = [value]
-
-    def get(self, key):
-        if key in self.index:
-            return self.index[key]
-        else:
-            return []
-
-    def load_data_2(self) -> dict:
-        """load_data
-
-            Funcion que carga los datos de un fichero
-
-        Parameters:
-            None
-        Output: 
-            dict
-        """
-        text_aux = ""
-        self.train_list = {}
-        train = open(self.filename, "r")
-        for i in train:
-            i = i.replace('\n', "")
-            i = i.replace('\t', "")
-            if i.isdigit():
-                num = i
-            elif "/" in i:
-                self.train_list[num] = text_aux
-            else:
-                text_aux += " " + i
-        self.n_total = len(self.train_list.keys())
+    def print_json(self, name) -> json:
+        with open(name + ".json", 'r') as json_file:
+            json_object = json.load(json_file)
+        print(json_object)
+        return json_object
