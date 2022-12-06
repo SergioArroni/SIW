@@ -1,15 +1,20 @@
 # SIW
 
-## Detección de documentos cuasi-duplicados P4
-Respecto a la practica anterior, el bag_of_words esta usando lematizacion, palabras vacias,
-signos de puntuacion y minusculas.
+## Resolviendo consultas con un índice
 
-Respecto a esta practica permito parametrizar los n-gramas. He provado con unigramas, bigramas y trigramas, para todos ellos me ha salido los mismos elemeentos cuasi-duplicados (restrictiveness = 10), que son los mismos que hay en el archivo articles_1000.truth
+He realizado las dos funciones de similitid tanto la de bm25 como la de coseno, para alternar entre ellas basta con añadir --bm25 para ejecutar la version bm25, por defecto ejecuta la del coseno, el principal problema de la practica es que esta muy mal optimizada y para documentos grandes tarda mucho, soy consciente de que se podria mejorar. Tambien he realizado el opcional del servicio web, se encuentra en app.py y al ejecutar con flask run, si se accede a la ruta indica en la terminal y se accede al endpoint /indice se cargara el indice y con /query se cargaran las query indicadas.
+
+La version de bm25 no me he parado mucho a calcular a ver si lo hace correctamente.
+
+He utilizado el ejemplo de las pizzas para comprobar que funciona correctamente.
 
 - Para ejecutar el archivo se le pasan los parametros por consola, si pulsas -h te sacara la ayuda, pero en resumen:
     ```
-        -r  Numero de restrictiveness que se quiera aplicar         [10]
-        -n  Numero de ngramas que se quieran usar                   [1] 
-        --file Ruta archivo de textos                               [articles_1000.train]
+        --index  Ruta del archivo donde se guardara el index                    [10]
+        --query  Ruta del archivo de texto que corresponde a las querys         [ejemplos_q.txt] 
+        --file Ruta del archivo de textos a indexar                             [ejemplo.txt]
+        --query_json Ruta del archivo donde se quiere guardar los resultados    [ejemplo.txt]
+        --bm25 Si se quiere utilizar bm25                                       [False]
     ```
-- En docs encontraras las salidas para cada n-grama provado, tambien mi scrip genera un resultados.txt en el que guardo cada doc y su simhash, esto lo hice para comprobar que todo me fuera bien y tenian sentido los simhash.
+
+- En docs encontraras los resultados y el indice en formato .json

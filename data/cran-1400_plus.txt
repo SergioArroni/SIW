@@ -1,5 +1,0 @@
-I0 	alcachofas mozzarella champinones aceite aceitunas tomate
-I1 	ajo aceite oregano tomate
-I2 	fontina gorgonzola mozzarella tomate stracchino
-I3 	anchoas mozzarella aceite oregano tomate
-I4 	mozzarella aceite oregano salchicha tomate

@@ -28,7 +28,7 @@ def parse_args() -> argparse.Namespace:
 
 
 param = ["./data/cran-1400_plus.txt",
-         "./data/cran-queries_plus.txt", "./docs/index", "./docs/result"]
+         "./data/cran-queries_plus.txt", "./docs/index", "./docs/result", True]
 
 
 @app.route('/')

@@ -26,16 +26,17 @@ class Index:
         self.path_indice = args.index
         self.path_query = args.query_json
         self.path_docs = "./docs/docs"
-
+        self.bm25 = args.bm25
+    '''
     def __init__(self, args: list) -> None:
-        '''__init__
+        __init__
             Funcion que inicializa la clase Index
 
         Parameters:
             args: argparse.Namespace
         Output:
             None
-        '''
+        
         self.filename = args[0]
         self.query = args[1]
         self.index = {}
@@ -46,6 +47,8 @@ class Index:
         self.path_indice = args[2]
         self.path_query = args[3]
         self.path_docs = "./docs/docs"
+        self.bm25 = args[4]
+    '''
 
     def load_data(self, name: str) -> dict:
         """load_data
@@ -88,13 +91,14 @@ class Index:
 
         self.docs_json = json.load(open(self.path_docs + ".json", "r"))
 
-        self.save_json(self.path_query, self.cos())
+        self.save_json(self.path_query, self.cos()) if not self.bm25 else self.save_json(
+            self.path_query, self.bm())
 
         return "OK"
 
     def cos(self) -> dict:
         '''cos
-            Funcion que calcula el coseno de los documentos. De una forma poco optima
+            Funcion que calcula el coseno de los documentos. De una forma muy poco optima
 
         Parameters:
             None
@@ -156,6 +160,57 @@ class Index:
                 result.items(), key=operator.itemgetter(1), reverse=True)
 
         return total_result
+
+    def bm(self) -> None:
+        self.avgdl = math.fsum(
+            [len(v) for _, v in self.docs_json.items()]) / self.n_total
+        total = {}
+        total_ordenado = {}
+        list_id = {}
+        k1 = 1.5
+        b = 0.75
+
+        for k, v in self.id_bag.items():
+            for k_2, _ in v.values.items():
+                if k_2 in self.index_json and self.index_json[k_2][0]["idf"] != 0:
+                    if k in list_id:
+                        for ele in self.index_json[k_2][1]["textos"]:
+                            if not (ele in list_id[k]):
+                                list_id[k].append(ele)
+                    else:
+                        list_id[k] = self.index_json[k_2][1]["textos"]
+
+        for k, v in self.id_bag.items():
+            mod_query = 0
+            mod_query_list = []
+            num_dict = {}
+
+            for k_2, v_2 in v.values.items():
+                if k_2 in self.index_json:
+                    value = self.index_json[k_2][0]["idf"] * \
+                        (v_2 / v.value_sum())
+                    mod_query += math.pow(value, 2)
+                    mod_query_list.append(value)
+                    num_dict[k_2] = value
+
+        for k, v in self.id_bag.items():
+            for ele in list_id[k]:
+                for k_1, _ in ele.items():
+                    total_par = {}
+                    for k_2, v_2 in v.values.items():
+                        if k_2 in self.index_json and self.index_json[k_2][0]["idf"] != 0:
+                            f = (v_2 / v.value_sum())
+                            num = self.index_json[k_2][0]["idf"] * f * (k1 + 1)
+                            dem = f + k1 * \
+                                (1 - b + b * (v.value_sum() / self.avgdl))
+                            total_par[k_1] = total_par[k_1] + \
+                                (num / dem) if k_1 in total_par else num / dem
+                    if k in total:
+                        total[k].append(total_par)
+                    else:
+                        total[k] = [total_par]
+
+        return total
 
     def implementation_inice(self) -> str:
         """implementation
